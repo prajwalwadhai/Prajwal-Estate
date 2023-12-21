@@ -1,0 +1,15 @@
+-Run the backent and frontend command
+npm run dev
+
+-Go back to the back folder command
+cd..
+
+-git command 
+git init 
+git add .
+git commit -m "message"
+git push
+
+
+-Delete the git ropository
+rm -rf .git
